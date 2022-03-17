@@ -15,25 +15,7 @@
 
 ##### 结构:
 
-
-├── README.md
-├── config
-│   └── nginx
-│       └── html.conf   #host文件 
-├── docker-compose.yaml  #安装文件
-├── files
-│   ├── cgi
-│   │   ├── Dockerfile  #PHP
-│   │   ├── docker-entrypoint.sh
-│   │ 
-│   └── proxy
-│       ├── Dockerfile  #nginx  
-│       └── docker-entrypoint.sh
-├── logs
-│   └── nginx #日志
-│       ├── 
-├── runtime #mysql & redis
-
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/38155213/158760245-7d0a05ab-b013-456f-970a-687c14e4fc24.png">
 
 
 > 使用方法
