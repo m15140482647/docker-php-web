@@ -2,6 +2,7 @@
 
 基于docker 构建php + nginx + mysql + redis的web环境
 
+
 > 配置说明
 
 ##### 版本:
@@ -13,6 +14,7 @@
 `openresty` 1.11.2.3
 
 ##### 结构:
+
 
 ├── README.md
 ├── config
@@ -50,8 +52,8 @@ https://www.runoob.com/docker/docker-compose.html
 
 结果展示
 
-![image-20220317153755710](/Users/qihongyun/Library/Application Support/typora-user-images/image-20220317153755710.png)
 
+<img width="1125" alt="image" src="https://user-images.githubusercontent.com/38155213/158760089-fb5490e4-2a2b-4ea8-b4b2-16c417098f3c.png">
 
 
 DONE !!!
